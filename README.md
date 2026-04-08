@@ -112,6 +112,16 @@ Update `online_shop/settings.py` as needed:
 ---
 
 ## 📸 Screenshots
+<h2>Home page</h4>
+<img src="github_images/home_page.png" alt=" page" width="800">
+<h2>store page</h4>
+<img src="github_images/store_page.png" alt=" page" width="800">
+<h2>category page</h4>
+<img src="github_images/category.png" alt=" page" width="800">
+<h2>product view page</h4>
+<img src="github_images/product_details.png" alt=" page" width="800">
+<h2>cart items page</h4>
+<img src="github_images/cart_items.png" alt=" page" width="800">
 
 
 ---
