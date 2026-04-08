@@ -113,25 +113,6 @@ Update `online_shop/settings.py` as needed:
 
 ## 📸 Screenshots
 
-> *(Add screenshots of your homepage, product listing, cart page, etc. here)*
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature/your-feature-name`
-3. Commit your changes: `git commit -m "Add your feature"`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
