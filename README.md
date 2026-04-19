@@ -15,6 +15,14 @@ A fully functional e-commerce web application built with **Python** and **Django
 
 ---
 
+## ER
+
+<img width="1374" height="1998" alt="image" src="https://github.com/user-attachments/assets/f738da41-477c-43c6-904c-77bfb2eb0415" />
+
+
+---
+
+
 ## 🗂️ Project Structure
 
 ```
